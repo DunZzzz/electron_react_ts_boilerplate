@@ -80,6 +80,6 @@
 	"dependencies": {
 		"react": "^16.8.6",
 		"react-dom": "^16.8.6",
-		"--tooling": "./local_modules/tooling_react_ts"
+		"--tooling": "DunZzzz/tooling_react_ts#master"
 	}
 }
